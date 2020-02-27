@@ -34,7 +34,9 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     if row_label == 'router':
         return 1
-
+    elif row_label == 'Router2'
+        return 2
+    else:
         None
 
 
