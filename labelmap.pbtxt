@@ -3,8 +3,4 @@ item {
   name: 'router'
 }
 
-item {
-  id: 2
-  name: 'Router2'
-}
 
