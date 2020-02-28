@@ -37,10 +37,10 @@ def class_text_to_int(row_label):
 """    
 elif row_label == 'Router2':
         return 2
-"""
+
     else:
         None
-
+"""
 
 def split(df, group):
     data = namedtuple('data', ['filename', 'object'])
