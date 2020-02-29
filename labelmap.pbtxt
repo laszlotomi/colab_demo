@@ -1,29 +1,10 @@
 item {
   id: 1
-  name: 'nine'
+  name: 'router'
 }
 
 item {
   id: 2
-  name: 'ten'
+  name: 'Router2'
 }
 
-item {
-  id: 3
-  name: 'jack'
-}
-
-item {
-  id: 4
-  name: 'queen'
-}
-
-item {
-  id: 5
-  name: 'king'
-}
-
-item {
-  id: 6
-  name: 'ace'
-}
