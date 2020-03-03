@@ -1,7 +1,7 @@
 <annotation>
-	<folder>router3_resize</folder>
+	<folder>test</folder>
 	<filename>IMG_0813.JPEG</filename>
-	<path>C:\Users\A78773684\DataScience\Projects\AR-glas\Project\dataset\router3_resize\IMG_0813.JPEG</path>
+	<path>C:\Users\A78773684\DataScience\Projects\AR-glas\git\colab_demo\images\test\IMG_0813.JPEG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>router1</name>
+		<name>router</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
-	<filename>IMG_0830.JPEG</filename>
-	<path>C:\Users\A78773684\DataScience\Projects\AR-glas\git\colab_demo\images\train\IMG_0830.JPEG</path>
+	<folder>test</folder>
+	<filename>IMG_0809.JPEG</filename>
+	<path>C:\Users\A78773684\DataScience\Projects\AR-glas\git\colab_demo\images\test\IMG_0809.JPEG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>router</name>
+		<name>Router2</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>165</xmin>
-			<ymin>221</ymin>
-			<xmax>303</xmax>
-			<ymax>500</ymax>
+			<xmin>225</xmin>
+			<ymin>305</ymin>
+			<xmax>406</xmax>
+			<ymax>471</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>353</xmin>
-			<ymin>357</ymin>
-			<xmax>597</xmax>
-			<ymax>436</ymax>
+			<xmin>444</xmin>
+			<ymin>331</ymin>
+			<xmax>628</xmax>
+			<ymax>423</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Router2</name>
+		<name>router</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>594</xmin>
-			<ymin>265</ymin>
-			<xmax>682</xmax>
-			<ymax>387</ymax>
+			<xmin>619</xmin>
+			<ymin>237</ymin>
+			<xmax>690</xmax>
+			<ymax>384</ymax>
 		</bndbox>
 	</object>
 </annotation>
