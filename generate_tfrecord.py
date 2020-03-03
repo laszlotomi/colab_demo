@@ -36,6 +36,8 @@ def class_text_to_int(row_label):
         return 1
     elif row_label == 'Router2':
         return 2
+    elif row_label == 'router3':
+        return 3
     else:
         None
 

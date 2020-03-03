@@ -8,3 +8,7 @@ item {
   name: 'Router2'
 }
 
+item {
+  id: 3
+  name: 'router3'
+}
